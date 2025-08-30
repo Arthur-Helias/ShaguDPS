@@ -1,3 +1,7 @@
+# ShaguDPS - Fork
+
+Adds DPS and HPS in the Damage and Heal windows.
+
 # ShaguDPS
 
 A very small and lightweight damage meter. The combat log is parsed in a locale-independent way and should work on every 1.12 (vanilla) and 2.4.3 (burning crusade) based client.
